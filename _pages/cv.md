@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[download cv](http://marxwillia.github.io/files/cv.pdf)
+
+<object data="http://marxwillia.github.io/files/paper1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://marxwillia.github.io/files/paper1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://marxwillia.github.io/files/paper1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
