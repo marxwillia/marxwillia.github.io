@@ -178,6 +178,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  coauthorpubs:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -219,6 +222,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _coauthorpubs
+  - scope:
+      path: ""
+      type: coauthorpubs
     values:
       layout: single
       author_profile: true
