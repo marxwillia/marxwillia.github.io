@@ -1,7 +1,7 @@
 ---
 title: "Ultraviolet Spectroscopy and TARDIS Models of the Broad-lined Type-Ic Supernova 2014ad"
-collection: coauthorpubs
-permalink: /coauthorpubs/kwok
+collection: publications
+permalink: /publications/kwok
 excerpt: 'This paper presents radiative transfer models of the SN Ic-bl 2014ad along with UV and NIR spectra.'
 date: 2022-04-01
 venue: 'The Astrophysical Journal'
