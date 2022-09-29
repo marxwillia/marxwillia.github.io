@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marc Williamson"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Marc Williamson"
 description              : &description "test description"
