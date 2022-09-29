@@ -10,4 +10,5 @@ main:
     url: /teaching/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: https://marxwillia.github.io/files/cv.pdf
